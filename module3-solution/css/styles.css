@@ -1,1 +1,49 @@
+*{
+	font-family:"Times New Roman", Times, serif;
+	box-sizing:border-box;
+}
 
+h1 {
+	font-family: Brushstroke;
+	color: black;
+	
+}
+
+#collapseNavbar { width : 100% !important; }
+
+body {
+	 background-color: #ccffff; 
+}
+
+p {
+	padding: 10px;
+	margin: 0;
+}
+
+.row { margin-bottom : 10px; }
+
+
+
+#s1, #s2, #s3 {
+	border:	1px solid black;
+	background-color: #80ffff;
+	width: 100%;
+	height : 1000px;
+        margin : 10px;
+	font-family: Helvetica;
+	text-color: black;
+	position: relative;
+        overflow : auto
+}
+#l1, #l2, #l3 {
+	border:	1px solid black;
+        width:100%;
+	font-size :24px;
+        text-align : center;
+        font-bold:bold;
+	box-sizing:border-box;
+      }
+
+#d1 { text-align : center; text-color : black; font-size:24px;}
+#d2 { text-align : center; text-color : black; font-size:24px;}
+#d3 { text-align : center; text-color : black; font-size:24px;}
